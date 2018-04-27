@@ -20,5 +20,5 @@ This is a directory to different projects I have contributed to or created. The 
 
 **Testing**
 
-1.[arrayMethods](https://github.com/Theartbug/arrayMethodsAndTesting): unit testing with mocha.
+1. [arrayMethods](https://github.com/Theartbug/arrayMethodsAndTesting): unit testing with mocha.
 1. [PokeHang](https://github.com/Theartbug/redux-state-game): unit testing of actions and reducers with jest.
