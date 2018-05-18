@@ -15,7 +15,7 @@ This is a directory to different projects I have contributed to or created. The 
 
 **SQL**
 
-1. [PokeFlip](https://github.com/PokeFlip/ClientSide): a memory game utilizing pokeApi.
+1. [PokeFlip](https://github.com/Theartbug/PokeFlip-Client): a memory game utilizing pokeApi.
 1. [PokePersonality](https://github.com/Theartbug/pokepersonality): a personality quiz utilizing pokeApi.
 
 **Testing**
