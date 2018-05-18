@@ -10,7 +10,7 @@ This is a directory to different projects I have contributed to or created. The 
 
 *vanillaJS*
 1. [PlayaPictures](https://github.com/Theartbug/art-gallery): Responsive Image gallery.
-1. [TradePDX](https://github.com/PDXTrade/app): a Portland local app for bartering.
+1. [TradePDX](https://github.com/Theartbug/TradePDX): a Portland local app for bartering.
 
 
 **SQL**
