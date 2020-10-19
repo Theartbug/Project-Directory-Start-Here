@@ -5,7 +5,7 @@ This is a directory to different projects I have contributed to or created. The 
 **Javascript**
 
 *React / Redux*
-1. [PersonalWebsite](https://github.com/Theartbug/personal-website): my personal website (react only).
+1. [PersonalWebsite](https://github.com/Theartbug/personal-website): my personal website.
 1. [ParkPlace](https://github.com/Theartbug/ParkPlace): a worldwide app for leaving reviews on parks.
 1. [PokeHang](https://github.com/Theartbug/redux-state-game): hangman game utilizing pokeApi.
 
